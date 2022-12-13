@@ -8,7 +8,7 @@ PREDICTION
 ![image](https://user-images.githubusercontent.com/107601707/207250926-854e784c-cda6-49ad-81d3-871781f2ef73.png)
 
 RESULTS
-![image](https://user-images.githubusercontent.com/107601707/207250956-45b2524d-34a8-483a-af9c-fe8e571f7c0f.png)
+![image](https://user-images.githubusercontent.com/107601707/207251516-c12f916a-34a2-4fb7-a1c7-00a58a944108.png)
 
 ABOUT
 ![image](https://user-images.githubusercontent.com/107601707/207250981-390bee47-f763-4926-b319-861f3dac37a6.png)
